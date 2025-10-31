@@ -1,0 +1,13 @@
+print("calculadorade media")
+nota1 = 0
+nota2 = 0
+
+nota1=input("aluno 1 - digite a primeira nota para o aluno1: ")
+nota2=input("aluno 1 - digite a segunda nota para o aluno1: ")
+
+media = (nota1 + nota2)/2
+
+if media >=7:
+        print("aprovado")
+elif media <7  and media>=5:
+        print("recupoeração")
