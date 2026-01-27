@@ -4,7 +4,7 @@ salario_mensal = float(input("Digite o salario do funcionario: "))
 salario_anual = salario_mensal*12
 
 print()
-print("="*20)
+print("="*30)
 print("Dados pessoais do funcionario:")
 print(f"Nome: {nome_completo}")
 print(f"Idade: {idade}")
